@@ -2,7 +2,7 @@
  
 Replacement to the native menu of LabVIEW.
  
-## Dependency
+## Dependencies
  - FrontPanel 
  - InputDevice
  - Picture2D
