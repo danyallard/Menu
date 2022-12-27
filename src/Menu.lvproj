@@ -109,7 +109,7 @@
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
 			<Item Name="Picture2D.lvlib" Type="Library" URL="../../../Picture2D/src/Picture2D/Picture2D.lvlib"/>
 			<Item Name="UIShadow.lvlib" Type="Library" URL="../../../UIShadow/src/UIShadow.lvlib"/>
-			<Item Name="VIActivation.lvlib" Type="Library" URL="../../../VIActivation/VIActivation.lvlib"/>
+			<Item Name="VIActivation.lvlib" Type="Library" URL="../../../VIActivation/src/VIActivation.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
