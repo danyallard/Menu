@@ -12,11 +12,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Menu.lvlib" Type="Library" URL="../Menu.lvlib"/>
-		<Item Name="TEST_ContextMenuRTM.vi" Type="VI" URL="../TEST_ContextMenuRTM.vi"/>
-		<Item Name="TEST_DrawChecked.vi" Type="VI" URL="../TEST_DrawChecked.vi"/>
-		<Item Name="TEST_Menu.vi" Type="VI" URL="../TEST_Menu.vi"/>
-		<Item Name="TEST_MenuRTM.vi" Type="VI" URL="../TEST_MenuRTM.vi"/>
-		<Item Name="TestRTM.rtm" Type="Document" URL="../TestRTM.rtm"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
@@ -85,6 +80,7 @@
 				<Item Name="NI_3D Picture Control.lvlib" Type="Library" URL="/&lt;vilib&gt;/picture/3D Picture Control/NI_3D Picture Control.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="PCT Pad String.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/PCT Pad String.vi"/>
+				<Item Name="Picture to Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Picture to Pixmap.vi"/>
 				<Item Name="Query Input Devices.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Query Input Devices.vi"/>
 				<Item Name="Read PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Read PNG File.vi"/>
 				<Item Name="RectSize.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/RectSize.vi"/>
@@ -104,6 +100,7 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="ClassUtilities.lvlib" Type="Library" URL="../../../ClassUtilities/src/ClassUtilities.lvlib"/>
+			<Item Name="Draw Image With Alpha Channel.vi" Type="VI" URL="../../../Picture2D/src/Picture/Draw Image With Alpha Channel.vi"/>
 			<Item Name="FrontPanel.lvlib" Type="Library" URL="../../../FrontPanel/src/FrontPanel.lvlib"/>
 			<Item Name="InputDevice.lvlib" Type="Library" URL="../../../InputDevice/src/InputDevice.lvlib"/>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
