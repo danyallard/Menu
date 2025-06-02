@@ -25,9 +25,9 @@ Replacement to the native menu of LabVIEW.
  - UIShadow[^5]
  - VIActivation[^6]
 
- [^1]:<https://github.com/danyallard/ClassUtilities>
+ [^1]: <https://github.com/danyallard/ClassUtilities>
  [^2]: <https://github.com/danyallard/FrontPanel>
  [^3]: <https://github.com/danyallard/InputDevice>
  [^4]: <https://github.com/danyallard/Picture2D>
  [^5]: <https://github.com/danyallard/UIShadow>
- [^6]: <https://github.com/danyallard/UIShadow>
+ [^6]: <https://github.com/danyallard/VIActivation>
